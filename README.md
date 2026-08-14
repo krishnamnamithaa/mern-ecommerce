@@ -249,6 +249,7 @@ VIT-AP University
 ### GitHub
 
 https://github.com/krishnamnamithaa
+Live url _ mern-e-commerce-m4srbu9bp-namiithaas-projects.vercel.app
 
 ---
 
